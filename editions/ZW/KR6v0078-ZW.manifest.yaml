@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR6v0078/ZW/v1
+canonical_location: https://kanripo.org/bkk/KR6v0078/ZW/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 地藏菩薩十齋日
+  identifiers:
+    krp: KR6v0078
+    cbeta: ZW07n0064b
+    cbeta_old_id: ZW07n0064b
+    authorityid: CA0008477
+    json_key: ZW0064b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW07/ZW07n0064b.xml
+    old_id: ZW07n0064b
+  edition:
+    short: ZW
+assets:
+  parts:
+  - {seq: 1, filename: KR6v0078_001-ZW.yaml, hash: 'sha256:3f25c5ddd407d9be8bcc2249f7647c9e056192c20dd460d77e68de2a23d53475'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0078_001-ZW.markers.yaml, hash: 'sha256:39cb888983f08f2f06534fe4dd9193f13517d73b0dbec4e09749750b267944ad'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0078_ZW_001-juan-start
+    span:
+    - body
+    - 0
+    - 136
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0078_ZW_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 錄文二
+  type: mulu
+  level: 1
+hash: sha256:5c8a4d32dab7b9fd2decc53c9f17af589c140a0c8d0687517a1a731510327536

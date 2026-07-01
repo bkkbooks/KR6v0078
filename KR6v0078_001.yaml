@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6v0078/zw/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 録文二月一日童子下念定光如來佛八日太山下念藥師琉璃光佛十四日察命下念賢劫千佛十五日五道大將軍下念阿閦佛十八日閻羅王下念觀世音菩薩二十三日天大將軍下念盧舍那佛二十四日太山府君下念地藏菩薩二十八日天帝釋下念阿彌陀佛二十九日四天王下念藥王藥上菩薩三十日大梵王下念釋迦牟尼佛録文完
+  hash: sha256:70a4bc8f5e5efcd58a83a5b25edff2b8d5c51d7c20214e4366497fa5aaf44d56
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0078_ZW_001-juan-start, juan_n: '001'}
+  - {type: 其他, offset: 0, content: 錄文二, id: KR6v0078_ZW_001-mulu-1, level: '1'}
+metadata:
+  title: 地藏菩薩十齋日
+  edition:
+    short: zw
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW07/ZW07n0064b.xml
+    old_id: ZW07n0064b
+hash: sha256:5facf86dd473ce5238f48138b66450ce2b8d15bf1f218f753a9fd7afda07bdef
